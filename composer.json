@@ -1,0 +1,19 @@
+{
+    "name": "indra-basuki/enum",
+    "description": "Implementasi ENUM  untuk Laravel 10.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IndraBasuki\\Enum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "indra",
+            "email": "47154580+indr622@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
